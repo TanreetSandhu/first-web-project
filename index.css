@@ -1,0 +1,57 @@
+
+body {
+    font-family: arial,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+    .hero-section {
+        width: 100%;
+        height: 100px;
+        /* background-image:"https://content.jdmagicbox.com/comp/muzaffarnagar/j5/9999px131.x131.160923062648.z7j5/catalogue/moga-punjabi-tadka-muzaffarnagar-08pvowwibd.jpg"; */
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+    }
+    .hero h1 {
+        font-size: 90px;
+        text-align: center;
+        
+    }
+    .hero p{
+        font-size: 60px;
+        color: darkblue;
+        text-align: center;
+    }
+    .intro {
+        padding: 20px;
+        text-align: center;
+        font-size: xx-large;
+        color: deeppink;
+    }
+    .menu {
+        padding: 20px;
+        }
+    .category {
+        margin-bottom: 20px;
+        font-size: 30px;
+    }
+    .category h2 {
+        font-size: 50px;
+        margin-bottom: 20px;
+    }
+    .menu-item {
+        display: 40px;
+        justify-content: space-between;
+        padding: 20px;
+        border-bottom: 1px solid #ccc;
+    }
+    .menu-item:last-child {
+        border-bottom: none;
+    }
+    .CONTACT {
+        font-size: xx-large;
+        color: black;
+    }
